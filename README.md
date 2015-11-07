@@ -1,5 +1,5 @@
 # about
-about share-fi, a social network based around wi-fi networks
+about wirefy, a social network based around wi-fi networks
 
 ## notes
 
